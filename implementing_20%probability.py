@@ -20,9 +20,9 @@ def avg():
     sum = 0
     for i in range(1000):
         sum+= wins()
-    return sum/1000
+    return sum/10000
 
-print("the average : %f" % avg())
+print("the average : %f per cent" % avg())
 
     
 
