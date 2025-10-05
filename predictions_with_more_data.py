@@ -1,6 +1,5 @@
 import numpy as np
 from io import StringIO
-import csv
 
 input_string = '''
 25 2 50 1 500 127900
